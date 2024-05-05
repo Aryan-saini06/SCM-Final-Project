@@ -95,7 +95,7 @@ body
 .list ul li label input:checked ~ span::before
 {
     border-left: 2px solid #fff;
-    border-bottom: 2px solid #fff;
+    border-bottom: 4px solid #fff;
 }
 .logo{
     font-size: 14px;
